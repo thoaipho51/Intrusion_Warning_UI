@@ -80,6 +80,7 @@ with col2:
     cam2 =st.text_input('Input RTSP link 2')
     cam3 =st.text_input('Input RTSP link 3')
     cam4 =st.text_input('Input RTSP link 4')
+
     
 if st.button('Khởi động hệ thống'):
     soundDefault = True
